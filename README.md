@@ -1,4 +1,5 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+![Screenshot_1715861629](https://github.com/harshit0571/password-generator-app/assets/62325935/d1ab8f23-9619-4a53-8c09-fe05f99d741c)
 
 # Getting Started
 
